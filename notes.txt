@@ -1,1 +1,1 @@
-My first note
+This is my SCM file notes
